@@ -1,5 +1,4 @@
-# Encoded by ZUYAN
-# GitHub: https://github.com/ZUYANx
+
 
 import marshal, base64
 
